@@ -531,12 +531,12 @@ img {
   /* max-height: ; */
 }
 
-@media screen and (min-width: 428px) {
+/* @media screen and (min-width: 428px) {
   map-block-text {
     font-size: 14px;
     top: 45%;
   }
-}
+} */
 
 @media screen and (min-width: 1200px) {
   .map-block-text {
