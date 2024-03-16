@@ -954,9 +954,15 @@ img {
 
 .call-button {
   position: fixed;
-  bottom: 10%;
+  bottom: 20%;
   right: 1%;
   z-index: 999;
+}
+
+@media screen and (min-width: 1200px) {
+  .call-button {
+    bottom: 10%;
+  }
 }
 
 .call-button a {
